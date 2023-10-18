@@ -1,8 +1,9 @@
 ini adalah daftar task saya :
   - mengerjakan tugas
   - belajar javascript
-
-  - jalan jalan ke lapangan
+  - belajar HTML
+  - belajar PHP
   - jogging
   - membuat modul pembelajaran
+
 
